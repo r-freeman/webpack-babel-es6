@@ -1,3 +1,3 @@
 import log from './log'
 
-log('hello world');
+log('hello world!!!');
