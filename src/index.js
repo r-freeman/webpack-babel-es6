@@ -1,3 +1,8 @@
-import log from './log'
+import React from 'react'
+import App from './App'
+import { render } from 'react-dom'
 
-log('hello world!!!');
+render(
+    <App/>,
+    document.getElementById('root')
+)

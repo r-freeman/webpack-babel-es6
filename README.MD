@@ -1,6 +1,6 @@
-# Webpack Babel ES6
+# Webpack Babel ES6 React
 
-A good starting point for most modern JavaScript web apps. Features Webpack development server with minimal configuration for rapid development and deployment.
+Everything you need to start building React apps. Features Webpack development server with minimal configuration for rapid development and deployment.
 
 ### Getting started
 
