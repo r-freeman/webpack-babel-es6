@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "react": "^16.10.1",
-    "react-dom": "^16.10.1"
+    "react-dom": "^16.10.1",
+    "whatwg-fetch": "^3.0.0"
   }
 }
